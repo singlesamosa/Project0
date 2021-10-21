@@ -1,1 +1,1 @@
-print("Samosa is the best")
+print("Samosa is the best@@")
