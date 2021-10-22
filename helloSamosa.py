@@ -14,6 +14,7 @@ def main():
             ask_again = False
             print("You performed " + str(operations_count) + " operations, bye!")
 
+#comment
 
 def perform_division(a,b):
     global operations_count
