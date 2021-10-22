@@ -1,3 +1,4 @@
+
 operations_count = 0
 
 def main():
@@ -25,4 +26,5 @@ def perform_division(a,b):
 
 
 main()
+
 
