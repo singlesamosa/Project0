@@ -20,8 +20,10 @@ def perform_division(a,b):
     try:
         operations_count += 1
         return int(a)/int(b)
-    except Exception as e:
-        pass
+    except ZeroDivisionError as error:
+        print("Looks like you are trying to divide by zero! This is not possible.")
+    except Exception as error:
+        print("Invalid numbers.")
 
 
 main()
