@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 operations_count = 0
 
 def main():
@@ -28,3 +29,6 @@ def perform_division(a,b):
 
 main()
 
+=======
+hello
+>>>>>>> caeb32dc201c1a80400f0efc13a6cbfa8253fa94
