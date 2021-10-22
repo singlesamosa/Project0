@@ -15,6 +15,7 @@ def main():
             print("You performed " + str(operations_count) + " operations, bye!")
 
 #comment
+#comment 2
 
 def perform_division(a,b):
     global operations_count
